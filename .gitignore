@@ -3,6 +3,9 @@
  *CS112 - Java Programming
  *Week 3 Homework Bonus
  *Tuesday 7:00p.m. - 10:00 p.m.
+ *
+ *The calculator should support basic arithmetic functions(addition, subtraction, multiplication, division),
+ *parenthesis(nested and side by side), negative numbers, and the use of whole numbers and decimals.
  */
 
 import java.awt.*;
